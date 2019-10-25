@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:h="clr-namespace:NSW.EliteDangerous.Monitor.Helpers">
+    <SolidColorBrush x:Key="Styles.Elite.Primary" Color="{h:StaticResourcePath ResourceKey=PrimaryHueMidBrush, Path=Color}"/>
+    <SolidColorBrush x:Key="Styles.Elite.Secondary" Color="{h:StaticResourcePath ResourceKey=SecondaryAccentBrush, Path=Color}"/>
+    <SolidColorBrush x:Key="Styles.Elite.Attention" Color="#ff0000"/>
+    <SolidColorBrush x:Key="Styles.Elite.Warning" Color="{h:StaticResourcePath ResourceKey=PrimaryHueLightBrush, Path=Color}"/>
+    <SolidColorBrush x:Key="Styles.Elite.Good" Color="#029e4c"/>
+    <SolidColorBrush x:Key="Styles.Elite.Inactive" Color="#4D4B4D"/>
+</ResourceDictionary>

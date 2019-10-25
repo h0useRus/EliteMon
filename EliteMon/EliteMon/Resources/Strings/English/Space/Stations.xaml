@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xml:lang="en-AU">
+    <sys:String x:Key="Station.AsteroidBase.Text">Asteroid Base</sys:String>
+    <sys:String x:Key="Station.CoriolisStarport.Text">Coriolis Starport</sys:String>
+    <sys:String x:Key="Station.OcellusStarport.Text">Ocellus Starport</sys:String>
+    <sys:String x:Key="Station.OrbisStarport.Text">Orbis Starport</sys:String>
+    <sys:String x:Key="Station.Outpost.Text">Outpost</sys:String>
+    <sys:String x:Key="Station.CivilianOutpost.Text">Civilian Outpost</sys:String>
+    <sys:String x:Key="Station.CommercialOutpost.Text">Commercial Outpost</sys:String>
+    <sys:String x:Key="Station.IndustrialOutpost.Text">Industrial Outpost</sys:String>
+    <sys:String x:Key="Station.MilitaryOutpost.Text">Military Outpost</sys:String>
+    <sys:String x:Key="Station.MiningOutpost.Text">Mining Outpost</sys:String>
+    <sys:String x:Key="Station.ScientificOutpost.Text">Scientific Outpost</sys:String>
+    <sys:String x:Key="Station.PlanetaryOutpost.Text">Planetary Outpost</sys:String>
+    <sys:String x:Key="Station.PlanetaryPort.Text">Planetary Port</sys:String>
+    <sys:String x:Key="Station.MegaShip.Text">Mega Ship</sys:String>
+    <sys:String x:Key="Station.CivilianMegaShip.Text">Civilian Mega Ship</sys:String>
+</ResourceDictionary>

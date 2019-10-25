@@ -1,0 +1,54 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xml:lang="ru-RU">
+    <!--Federation-->
+    <sys:String x:Key="Faction.Federation.Text">Федерация</sys:String>
+    <sys:String x:Key="Faction.Federation.Navy.Text">Флот Федерации</sys:String>
+    <sys:String x:Key="Faction.Federation.0.Text">Нет</sys:String>
+    <sys:String x:Key="Faction.Federation.1.Text">Рекрут</sys:String>
+    <sys:String x:Key="Faction.Federation.2.Text">Кадет</sys:String>
+    <sys:String x:Key="Faction.Federation.3.Text">Гардемарин</sys:String>
+    <sys:String x:Key="Faction.Federation.4.Text">Старшина</sys:String>
+    <sys:String x:Key="Faction.Federation.5.Text">Главный старшина</sys:String>
+    <sys:String x:Key="Faction.Federation.6.Text">Мичман</sys:String>
+    <sys:String x:Key="Faction.Federation.7.Text">Прапорщик</sys:String>
+    <sys:String x:Key="Faction.Federation.8.Text">Лейтенант</sys:String>
+    <sys:String x:Key="Faction.Federation.9.Text">Капитан-лейтенант</sys:String>
+    <sys:String x:Key="Faction.Federation.10.Text">Начальник гарнизона</sys:String>
+    <sys:String x:Key="Faction.Federation.11.Text">Командир корабля</sys:String>
+    <sys:String x:Key="Faction.Federation.12.Text">Контр-адмирал</sys:String>
+    <sys:String x:Key="Faction.Federation.13.Text">Вице-адмирал</sys:String>
+    <sys:String x:Key="Faction.Federation.14.Text">Адмирал</sys:String>
+    <!--Empire-->
+    <sys:String x:Key="Faction.Empire.Text">Империя</sys:String>
+    <sys:String x:Key="Faction.Empire.Navy.Text">Флот Империи</sys:String>
+    <sys:String x:Key="Faction.Empire.0.Text">Нет</sys:String>
+    <sys:String x:Key="Faction.Empire.1.Text">Чужак</sys:String>
+    <sys:String x:Key="Faction.Empire.2.Text">Крепостной</sys:String>
+    <sys:String x:Key="Faction.Empire.3.Text">Мастер</sys:String>
+    <sys:String x:Key="Faction.Empire.4.Text">Оруженосец</sys:String>
+    <sys:String x:Key="Faction.Empire.5.Text">Рыцарь</sys:String>
+    <sys:String x:Key="Faction.Empire.6.Text">Лорд</sys:String>
+    <sys:String x:Key="Faction.Empire.7.Text">Барон</sys:String>
+    <sys:String x:Key="Faction.Empire.8.Text">Виконт</sys:String>
+    <sys:String x:Key="Faction.Empire.9.Text">Граф</sys:String>
+    <sys:String x:Key="Faction.Empire.10.Text">Эрл</sys:String>
+    <sys:String x:Key="Faction.Empire.11.Text">Маркиз</sys:String>
+    <sys:String x:Key="Faction.Empire.12.Text">Герцог</sys:String>
+    <sys:String x:Key="Faction.Empire.13.Text">Принц</sys:String>
+    <sys:String x:Key="Faction.Empire.14.Text">Король</sys:String>
+    <!--Alliance-->
+    <sys:String x:Key="Faction.Alliance.Text">Альянс</sys:String>
+    <sys:String x:Key="Faction.Alliance.Navy.Text">Флот Альянса</sys:String>
+    <!--Independent-->
+    <sys:String x:Key="Faction.Independent.Text">Независимые</sys:String>
+    <sys:String x:Key="Faction.Independent.Navy.Text">Независимый флот</sys:String>
+    <!--Reputation-->
+    <sys:String x:Key="Faction.Reputation.0.Text">Враждебный</sys:String>
+    <sys:String x:Key="Faction.Reputation.1.Text">Недружественный</sys:String>
+    <sys:String x:Key="Faction.Reputation.2.Text">Нейтральный</sys:String>
+    <sys:String x:Key="Faction.Reputation.3.Text">Радушный</sys:String>
+    <sys:String x:Key="Faction.Reputation.4.Text">Дружелюбный</sys:String>
+    <sys:String x:Key="Faction.Reputation.5.Text">Союзный</sys:String>
+</ResourceDictionary>

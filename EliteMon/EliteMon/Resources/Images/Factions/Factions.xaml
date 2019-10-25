@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ImageSource x:Key="Faction.Alliance.Image">alliance.png</ImageSource>
+    <ImageSource x:Key="Faction.Alliance.Navy.Image">alliance_navy.png</ImageSource>
+    <ImageSource x:Key="Faction.Empire.Image">empire.png</ImageSource>
+    <ImageSource x:Key="Faction.Empire.Navy.Image">empire_navy.png</ImageSource>
+    <ImageSource x:Key="Faction.Federation.Image">federation.png</ImageSource>
+    <ImageSource x:Key="Faction.Federation.Navy.Image">federation_navy.png</ImageSource>
+    <ImageSource x:Key="Faction.Independent.Image">independent.png</ImageSource>
+    <ImageSource x:Key="Faction.Independent.Navy.Image">independent_navy.png</ImageSource>
+</ResourceDictionary>

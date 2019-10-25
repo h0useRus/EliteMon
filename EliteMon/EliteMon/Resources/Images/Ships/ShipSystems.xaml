@@ -1,0 +1,511 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--NightVision-->
+    <DrawingImage x:Key="Ship.System.NightVision.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V100 H100 V0 H0 Z">
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <DrawingGroup Opacity="1">
+                            <DrawingGroup Opacity="1">
+                                <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}" Geometry="F1 M100,100z M0,0z M54.3,56.2C49.6,55.6 45.9,51.8 45.4,47.1 44.9,42.8 47.1,39 50.5,37 51.2,36.6 50.9,35.6 50.1,35.6 49.2,35.6 48.4,35.8 47.5,36 41.6,37.4 37.2,42.6 36.8,48.6 36.3,56.7 42.7,63.5 50.7,63.5 56.8,63.5 62,59.6 63.9,54.1 64.2,53.4 63.3,52.8 62.7,53.4 60.6,55.5 57.6,56.7 54.3,56.2z" />
+                            </DrawingGroup>
+                        </DrawingGroup>
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}" Geometry="F1 M100,100z M0,0z M56.6,39.7L56.6,39.7 58.5,43.3 62.1,45.2 58.5,47.2 56.6,50.8 54.6,47.2 51,45.2 54.6,43.3z" />
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}" Geometry="F1 M100,100z M0,0z M98.2,47.6C98,47.3 93.2,41.3 85,35.3 74,27.2 62,22.9 50.3,22.9 38.6,22.9 26.7,27.2 15.6,35.3 7.4,41.3 2.6,47.4 2.4,47.6L0.7,49.8 2.4,52C2.6,52.3 7.4,58.3 15.6,64.3 26.6,72.4 38.6,76.7 50.3,76.7 62,76.6 74,72.4 85,64.3 93.2,58.2 98.1,52.2 98.2,52L99.9,49.8 98.2,47.6z M50.3,68.6C39.9,68.6 31.5,60.2 31.5,49.8 31.5,48.2 31.3,42.2 37.9,35.5L35,32.5C26.8,39.1 27.2,48 27.2,49.8 27.2,56.5 30.1,62.5 34.6,66.8 28.7,64.6 23.7,61.6 19.9,58.8 15.2,55.4 11.7,51.9 9.7,49.8 11.7,47.7 15.2,44.2 19.9,40.8 23.7,38 28.7,35 34.6,32.8L37.5,36C40.9,32.8 45.4,30.9 50.4,30.9 60.8,30.9 69.2,39.3 69.2,49.7 69.2,60.2 60.7,68.6 50.3,68.6z M80.7,58.8C76.9,61.6 71.9,64.6 66,66.8 70.6,62.6 73.4,56.5 73.4,49.8 73.4,43.1 70.5,37.1 66,32.8 71.9,35 76.9,38 80.7,40.8 85.4,44.2 88.9,47.7 90.9,49.8 88.9,51.9 85.4,55.4 80.7,58.8z" />
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                            <GeometryDrawing.Geometry>
+                                <RectangleGeometry RadiusX="0" RadiusY="0" Rect="48.3,6.6,4.8,8.5" />
+                            </GeometryDrawing.Geometry>
+                        </GeometryDrawing>
+                        <DrawingGroup Transform="0.8251,-0.5649,0.5649,0.8251,-12.1203,9.0475">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="6.1,19.9,4.8,8.5" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                        <DrawingGroup Transform="0.5843,-0.8116,0.8116,0.5843,18.9276,85.1559">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="88.3,21.7,8.5,4.8" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                        <DrawingGroup Transform="0.3748,-0.9271,0.9271,0.3748,32.0219,75.7054">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="67.9,11.7,8.5,4.8" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}" Geometry="F1 M100,100z M0,0z M32,17.5L32,17.5 27.5,19.2 24.4,11.3 28.9,9.6z" />
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                            <GeometryDrawing.Geometry>
+                                <RectangleGeometry RadiusX="0" RadiusY="0" Rect="48.8,85.3,4.8,8.5" />
+                            </GeometryDrawing.Geometry>
+                        </GeometryDrawing>
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}" Geometry="F1 M100,100z M0,0z M88.2,73.6L88.2,73.6 92.1,70.9 97,77.8 93,80.6z" />
+                        <DrawingGroup Transform="0.5431,-0.8397,0.8397,0.5431,-59.6822,41.7871">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="4.3,73.3,8.5,4.8" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                        <DrawingGroup Transform="0.3754,-0.9268,0.9268,0.3754,-61.3468,80.414">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="24.8,83.3,8.5,4.8" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                        <DrawingGroup Transform="0.928,-0.3725,0.3725,0.928,-26.6733,33.3791">
+                            <GeometryDrawing Brush="{StaticResource Styles.Elite.Secondary}">
+                                <GeometryDrawing.Geometry>
+                                    <RectangleGeometry RadiusX="0" RadiusY="0" Rect="70.6,81.5,4.9,8.5" />
+                                </GeometryDrawing.Geometry>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                    </DrawingGroup>
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.NightVision.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V100 H100 V0 H0 Z">
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <DrawingGroup Opacity="1">
+                            <DrawingGroup Opacity="1">
+                                <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M100,100z M0,0z M54.3,56.2C49.6,55.6 45.9,51.8 45.4,47.1 44.9,42.8 47.1,39 50.5,37 51.2,36.6 50.9,35.6 50.1,35.6 49.2,35.6 48.4,35.8 47.5,36 41.6,37.4 37.2,42.6 36.8,48.6 36.3,56.7 42.7,63.5 50.7,63.5 56.8,63.5 62,59.6 63.9,54.1 64.2,53.4 63.3,52.8 62.7,53.4 60.6,55.5 57.6,56.7 54.3,56.2z" />
+                            </DrawingGroup>
+                        </DrawingGroup>
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M100,100z M0,0z M56.6,39.7L56.6,39.7 58.5,43.3 62.1,45.2 58.5,47.2 56.6,50.8 54.6,47.2 51,45.2 54.6,43.3z" />
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M100,100z M0,0z M98.2,47.6C98,47.3 93.2,41.3 85,35.3 74,27.2 62,22.9 50.3,22.9 38.6,22.9 26.7,27.2 15.6,35.3 7.4,41.3 2.6,47.4 2.4,47.6L0.7,49.8 2.4,52C2.6,52.3 7.4,58.3 15.6,64.3 26.6,72.4 38.6,76.7 50.3,76.7 62,76.6 74,72.4 85,64.3 93.2,58.2 98.1,52.2 98.2,52L99.9,49.8 98.2,47.6z M50.3,68.6C39.9,68.6 31.5,60.2 31.5,49.8 31.5,48.2 31.3,42.2 37.9,35.5L35,32.5C26.8,39.1 27.2,48 27.2,49.8 27.2,56.5 30.1,62.5 34.6,66.8 28.7,64.6 23.7,61.6 19.9,58.8 15.2,55.4 11.7,51.9 9.7,49.8 11.7,47.7 15.2,44.2 19.9,40.8 23.7,38 28.7,35 34.6,32.8L37.5,36C40.9,32.8 45.4,30.9 50.4,30.9 60.8,30.9 69.2,39.3 69.2,49.7 69.2,60.2 60.7,68.6 50.3,68.6z M80.7,58.8C76.9,61.6 71.9,64.6 66,66.8 70.6,62.6 73.4,56.5 73.4,49.8 73.4,43.1 70.5,37.1 66,32.8 71.9,35 76.9,38 80.7,40.8 85.4,44.2 88.9,47.7 90.9,49.8 88.9,51.9 85.4,55.4 80.7,58.8z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--Headlamp-->
+    <DrawingImage x:Key="Ship.System.Headlamp.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V498.394 H498.394 V0 H0 Z">
+                <DrawingGroup.Transform>
+                    <TranslateTransform X="4.6086948714219034E-05" Y="0" />
+                </DrawingGroup.Transform>
+                <DrawingGroup Opacity="1">
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F1 M498.394,498.394z M0,0z M294.874,90.031L157.827,90.031C52.759,90.031 -0.057,169.614 0,249.197 0.057,328.78 52.986,408.363 159.407,408.363L294.875,408.363C301.112,408.363 306.74,404.635 309.156,398.883 348.375,305.722 350.565,197.872 309.156,99.51 306.739,93.759 301.111,90.031 294.874,90.031z M159.407,377.385C-12.379,377.385,-11.401,121.009,157.827,121.009L218.813,121.009C250.535,203.039,250.535,295.355,218.813,377.385L159.407,377.385z M251.856,377.385C280.85,295.301,281.341,204.485,251.856,121.009L284.424,121.009C316.146,203.039,316.146,295.355,284.424,377.385L251.856,377.385z" />
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F1 M498.394,498.394z M0,0z M371.634,121.006L461.615,121.006C482.082,121.006,482.104,90.028,461.615,90.028L371.634,90.028C351.167,90.028,351.145,121.006,371.634,121.006z" />
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F1 M498.394,498.394z M0,0z M393.055,216.793L483.036,216.793C503.503,216.793,503.525,185.815,483.036,185.815L393.055,185.815C372.587,185.815,372.566,216.793,393.055,216.793z" />
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F1 M498.394,498.394z M0,0z M483.036,281.601L393.055,281.601C372.588,281.601,372.566,312.579,393.055,312.579L483.036,312.579C503.503,312.579,503.525,281.601,483.036,281.601z" />
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F1 M498.394,498.394z M0,0z M461.615,377.389L371.634,377.389C351.167,377.389,351.145,408.367,371.634,408.367L461.615,408.367C482.083,408.367,482.104,377.389,461.615,377.389z" />
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.Headlamp.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V498.394 H498.394 V0 H0 Z">
+                <DrawingGroup.Transform>
+                    <TranslateTransform X="4.6086948714219034E-05" Y="0" />
+                </DrawingGroup.Transform>
+                <DrawingGroup Opacity="1">
+                    <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M498.394,498.394z M0,0z M294.874,90.031L157.827,90.031C52.759,90.031 -0.057,169.614 0,249.197 0.057,328.78 52.986,408.363 159.407,408.363L294.875,408.363C301.112,408.363 306.74,404.635 309.156,398.883 348.375,305.722 350.565,197.872 309.156,99.51 306.739,93.759 301.111,90.031 294.874,90.031z M159.407,377.385C-12.379,377.385,-11.401,121.009,157.827,121.009L218.813,121.009C250.535,203.039,250.535,295.355,218.813,377.385L159.407,377.385z M251.856,377.385C280.85,295.301,281.341,204.485,251.856,121.009L284.424,121.009C316.146,203.039,316.146,295.355,284.424,377.385L251.856,377.385z" />
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--AnalysisMode-->
+    <DrawingImage x:Key="Ship.System.AnalysisMode.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V495.958 H495 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M495,495.958z M0,0z M88.4375,47.957031C99.117188,47.957031,109.164062,52.125,116.726562,59.679688L128.035156,48.367188C117.453125,37.789062 103.398438,31.957031 88.4375,31.957031 73.476562,31.957031 59.421875,37.789062 48.835938,48.367188 38.253906,58.941406 32.4375,72.996094 32.4375,87.957031 32.4375,102.917969 38.261719,116.972656 48.835938,127.550781L60.148438,116.238281C52.597656,108.6875 48.4375,98.636719 48.4375,87.957031 48.4375,77.277344 52.597656,67.230469 60.148438,59.679688 67.699219,52.125 77.757812,47.957031 88.4375,47.957031z M88.4375,47.957031" />
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M495,495.958z M0,0z M37.523438,37.046875C65.605469,8.964844,111.277344,8.964844,139.355469,37.046875L150.667969,25.734375C116.355469,-8.578125 60.523438,-8.578125 26.214844,25.734375 -8.097656,60.046875 -8.097656,115.878906 26.214844,150.191406L37.523438,138.878906C9.453125,110.796875,9.453125,65.117188,37.523438,37.046875z M37.523438,37.046875" />
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M495,495.958z M0,0z M277.253906,284.773438C249.390625,312.621094 212.363281,327.957031 172.980469,327.957031 155.820312,327.957031 139.046875,325.070312 123.132812,319.367188L117.734375,334.429688C135.390625,340.757812 153.972656,343.957031 172.980469,343.957031 216.636719,343.957031 257.675781,326.957031 288.550781,296.101562 289.40625,295.246094 290.261719,294.367188 291.09375,293.492188L279.539062,282.429688z M277.253906,284.773438" />
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M495,495.958z M0,0z M472.4375,367.957031C453.125,367.957031,436.964844,381.726562,433.246094,399.957031L360.4375,399.957031 360.4375,354.4375C365.484375,346.839844 368.4375,337.742188 368.4375,327.957031 368.4375,308.398438 356.292969,291.207031 338.894531,283.855469 358.109375,253.140625 368.4375,217.621094 368.4375,180.503906 368.4375,128.300781 348.101562,79.214844 311.1875,42.300781L305.53125,36.644531 201.675781,140.503906 110.988281,80.046875C107.699219,70.710938 98.886719,63.957031 88.4375,63.957031 75.203125,63.957031 64.4375,74.726562 64.4375,87.957031 64.4375,98.40625 71.1875,107.222656 80.523438,110.511719L140.980469,201.199219 29.125,313.054688 34.78125,318.710938C71.691406,355.628906 120.773438,375.957031 172.980469,375.957031 210.101562,375.957031 245.613281,365.628906 276.324219,346.421875 280.421875,356.101562 287.484375,364.183594 296.429688,369.398438L296.429688,423.957031C296.429688,446.015625,314.371094,463.957031,336.429688,463.957031L433.238281,463.957031C436.957031,482.191406,453.109375,495.957031,472.429688,495.957031L496.429688,495.957031 496.429688,367.957031z M88.4375,95.957031C84.027344,95.957031 80.4375,92.375 80.4375,87.957031 80.4375,83.542969 84.027344,79.957031 88.4375,79.957031 92.84375,79.957031 96.4375,83.542969 96.4375,87.957031 96.4375,92.375 92.84375,95.957031 88.4375,95.957031z M99.011719,109.398438C103.734375,107.0625,107.539062,103.246094,109.878906,98.535156L190.140625,152.039062 152.515625,189.652344z M51.878906,312.925781L305.414062,59.398438C310.660156,65.132812,315.308594,71.207031,319.675781,77.414062L69.878906,327.207031C63.644531,322.8125,57.574219,318.148438,51.878906,312.925781z M172.980469,359.957031C141.101562,359.957031,110.574219,351.542969,83.667969,336.039062L328.484375,91.2226559999999C367.8125,159.773438 358.371094,248.902344 299.867188,307.398438 265.980469,341.292969 220.917969,359.957031 172.980469,359.957031z M289.886719,337.164062C297.347656,331.574219 304.476562,325.421875 311.195312,318.703125 317.917969,311.980469 324.0625,304.855469 329.660156,297.390625 342.902344,301.414062 352.4375,313.773438 352.4375,327.957031 352.4375,345.605469 338.085938,359.957031 320.4375,359.957031 306.285156,359.957031 293.902344,350.40625 289.886719,337.164062z M432.4375,447.957031L336.4375,447.957031C323.203125,447.957031,312.4375,437.191406,312.4375,423.957031L312.4375,375.222656C315.054688,375.671875 317.71875,375.957031 320.4375,375.957031 329.179688,375.957031 337.363281,373.566406 344.4375,369.460938L344.4375,399.957031C344.4375,408.78125,351.613281,415.957031,360.4375,415.957031L432.4375,415.957031z M480.4375,479.957031L472.4375,479.957031C459.203125,479.957031,448.4375,469.191406,448.4375,455.957031L448.4375,407.957031C448.4375,394.726562,459.203125,383.957031,472.4375,383.957031L480.4375,383.957031z M480.4375,479.957031" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.AnalysisMode.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V495.958 H495 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M495,495.958z M0,0z M277.253906,284.773438C249.390625,312.621094 212.363281,327.957031 172.980469,327.957031 155.820312,327.957031 139.046875,325.070312 123.132812,319.367188L117.734375,334.429688C135.390625,340.757812 153.972656,343.957031 172.980469,343.957031 216.636719,343.957031 257.675781,326.957031 288.550781,296.101562 289.40625,295.246094 290.261719,294.367188 291.09375,293.492188L279.539062,282.429688z M277.253906,284.773438" />
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M495,495.958z M0,0z M472.4375,367.957031C453.125,367.957031,436.964844,381.726562,433.246094,399.957031L360.4375,399.957031 360.4375,354.4375C365.484375,346.839844 368.4375,337.742188 368.4375,327.957031 368.4375,308.398438 356.292969,291.207031 338.894531,283.855469 358.109375,253.140625 368.4375,217.621094 368.4375,180.503906 368.4375,128.300781 348.101562,79.214844 311.1875,42.300781L305.53125,36.644531 201.675781,140.503906 110.988281,80.046875C107.699219,70.710938 98.886719,63.957031 88.4375,63.957031 75.203125,63.957031 64.4375,74.726562 64.4375,87.957031 64.4375,98.40625 71.1875,107.222656 80.523438,110.511719L140.980469,201.199219 29.125,313.054688 34.78125,318.710938C71.691406,355.628906 120.773438,375.957031 172.980469,375.957031 210.101562,375.957031 245.613281,365.628906 276.324219,346.421875 280.421875,356.101562 287.484375,364.183594 296.429688,369.398438L296.429688,423.957031C296.429688,446.015625,314.371094,463.957031,336.429688,463.957031L433.238281,463.957031C436.957031,482.191406,453.109375,495.957031,472.429688,495.957031L496.429688,495.957031 496.429688,367.957031z M88.4375,95.957031C84.027344,95.957031 80.4375,92.375 80.4375,87.957031 80.4375,83.542969 84.027344,79.957031 88.4375,79.957031 92.84375,79.957031 96.4375,83.542969 96.4375,87.957031 96.4375,92.375 92.84375,95.957031 88.4375,95.957031z M99.011719,109.398438C103.734375,107.0625,107.539062,103.246094,109.878906,98.535156L190.140625,152.039062 152.515625,189.652344z M51.878906,312.925781L305.414062,59.398438C310.660156,65.132812,315.308594,71.207031,319.675781,77.414062L69.878906,327.207031C63.644531,322.8125,57.574219,318.148438,51.878906,312.925781z M172.980469,359.957031C141.101562,359.957031,110.574219,351.542969,83.667969,336.039062L328.484375,91.2226559999999C367.8125,159.773438 358.371094,248.902344 299.867188,307.398438 265.980469,341.292969 220.917969,359.957031 172.980469,359.957031z M289.886719,337.164062C297.347656,331.574219 304.476562,325.421875 311.195312,318.703125 317.917969,311.980469 324.0625,304.855469 329.660156,297.390625 342.902344,301.414062 352.4375,313.773438 352.4375,327.957031 352.4375,345.605469 338.085938,359.957031 320.4375,359.957031 306.285156,359.957031 293.902344,350.40625 289.886719,337.164062z M432.4375,447.957031L336.4375,447.957031C323.203125,447.957031,312.4375,437.191406,312.4375,423.957031L312.4375,375.222656C315.054688,375.671875 317.71875,375.957031 320.4375,375.957031 329.179688,375.957031 337.363281,373.566406 344.4375,369.460938L344.4375,399.957031C344.4375,408.78125,351.613281,415.957031,360.4375,415.957031L432.4375,415.957031z M480.4375,479.957031L472.4375,479.957031C459.203125,479.957031,448.4375,469.191406,448.4375,455.957031L448.4375,407.957031C448.4375,394.726562,459.203125,383.957031,472.4375,383.957031L480.4375,383.957031z M480.4375,479.957031" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--Hardpoints-->
+    <DrawingImage x:Key="Ship.System.Hardpoints.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V24 H24 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F0 M24,24z M0,0z M3.05492878,11C3.5160776,6.82838339,6.82838339,3.5160776,11,3.05492878L11,1 13,1 13,3.05492878C17.1716166,3.5160776,20.4839224,6.82838339,20.9450712,11L23,11 23,13 20.9450712,13C20.4839224,17.1716166,17.1716166,20.4839224,13,20.9450712L13,23 11,23 11,20.9450712C6.82838339,20.4839224,3.5160776,17.1716166,3.05492878,13L1,13 1,11 3.05492878,11z M5.07088886,11L7,11 7,13 5.07088886,13C5.50940162,16.0656912,7.93430884,18.4905984,11,18.9291111L11,17 13,17 13,18.9291111C16.0656912,18.4905984,18.4905984,16.0656912,18.9291111,13L17,13 17,11 18.9291111,11C18.4905984,7.93430884,16.0656912,5.50940162,13,5.07088886L13,7 11,7 11,5.07088886C7.93430884,5.50940162,5.50940162,7.93430884,5.07088886,11z M12,14C10.8954305,14 10,13.1045695 10,12 10,10.8954305 10.8954305,10 12,10 13.1045695,10 14,10.8954305 14,12 14,13.1045695 13.1045695,14 12,14z" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.Hardpoints.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V24 H24 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F0 M24,24z M0,0z M3.05492878,11C3.5160776,6.82838339,6.82838339,3.5160776,11,3.05492878L11,1 13,1 13,3.05492878C17.1716166,3.5160776,20.4839224,6.82838339,20.9450712,11L23,11 23,13 20.9450712,13C20.4839224,17.1716166,17.1716166,20.4839224,13,20.9450712L13,23 11,23 11,20.9450712C6.82838339,20.4839224,3.5160776,17.1716166,3.05492878,13L1,13 1,11 3.05492878,11z M5.07088886,11L7,11 7,13 5.07088886,13C5.50940162,16.0656912,7.93430884,18.4905984,11,18.9291111L11,17 13,17 13,18.9291111C16.0656912,18.4905984,18.4905984,16.0656912,18.9291111,13L17,13 17,11 18.9291111,11C18.4905984,7.93430884,16.0656912,5.50940162,13,5.07088886L13,7 11,7 11,5.07088886C7.93430884,5.50940162,5.50940162,7.93430884,5.07088886,11z M12,14C10.8954305,14 10,13.1045695 10,12 10,10.8954305 10.8954305,10 12,10 13.1045695,10 14,10.8954305 14,12 14,13.1045695 13.1045695,14 12,14z" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--Shields-->
+    <DrawingImage x:Key="Ship.System.Shields.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V24 H24 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Good}" Geometry="F0 M24,24z M0,0z M12,23C6,20.3270758,3,17.6604092,3,15L3,5C3,4 3.5,4 5,3 5.16179337,2.89213775 8.56320917,1 12,1 14.9952495,1 17.5,2 19,3 20.5,4 21,4 21,5 21.0264318,5.29131477 21,13.5 21,15 21,17.6666667 18,20.3333333 12,23z M19,15C19,14.7696854 19.0005911,14.3838015 19.0018395,13.7546873 19.002442,13.4510385 19.0036756,12.8625961 19.0058778,11.801424 19.0071585,11.1695166 19.0081782,10.6272502 19.0090335,10.1097828 19.0127226,7.87763814 19.0117352,5.96181826 19.0095779,5.36928408 18.6788452,5.1638246 18.1627209,4.84551481 17.8905996,4.66410059 16.4143231,3.67991623 14.2601784,3 12,3 9.8380869,3 7.02863525,4.05127735 6.10940039,4.66410059 5.83989194,4.84377289 5.33104387,5.15772448 5,5.3633347L5,15C5,16.5084521 7.22911083,18.568744 12.000926,20.8019938 16.7721586,18.5737351 19,16.5142377 19,15z M11,12.5857864L15.2928932,8.29289322 16.7071068,9.70710678 11,15.4142136 7.29289322,11.7071068 8.70710678,10.2928932 11,12.5857864z" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.Shields.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V24 H24 V0 H0 Z">
+                <GeometryDrawing Brush="{StaticResource Styles.Elite.Attention}" Geometry="F0 M24,24z M0,0z M12,23C6,20.3270758,3,17.6604092,3,15L3,5C3,4 3.5,4 5,3 5.16179337,2.89213775 8.56320917,1 12,1 14.9952495,1 17.5,2 19,3 20.5,4 21,4 21,5 21.0264318,5.29131477 21,13.5 21,15 21,17.6666667 18,20.3333333 12,23z M19,15C19,14.7696854 19.0005911,14.3838015 19.0018395,13.7546873 19.002442,13.4510385 19.0036756,12.8625961 19.0058778,11.801424 19.0071585,11.1695166 19.0081782,10.6272502 19.0090335,10.1097828 19.0127226,7.87763814 19.0117352,5.96181826 19.0095779,5.36928408 18.6788452,5.1638246 18.1627209,4.84551481 17.8905996,4.66410059 16.4143231,3.67991623 14.2601784,3 12,3 9.8380869,3 7.02863525,4.05127735 6.10940039,4.66410059 5.83989194,4.84377289 5.33104387,5.15772448 5,5.3633347L5,15C5,16.5084521 7.22911083,18.568744 12.000926,20.8019938 16.7721586,18.5737351 19,16.5142377 19,15z" />
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--FuelScoop-->
+    <DrawingImage x:Key="Ship.System.FuelScoop.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V512 H512 V0 H0 Z">
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M256,94.316C166.705,94.316 94.316,166.705 94.316,256 94.316,345.295 166.705,417.684 256,417.684 345.295,417.684 417.684,345.295 417.684,256 417.684,166.705 345.295,94.316 256,94.316z M256,323.368L256,276.21 202.105,276.21 256,188.632 256,235.79 309.895,235.79 256,323.368z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M54.898,235.789L0,235.789 0,276.21 54.898,276.21C54.238,269.562 53.894,262.821 53.894,255.999 53.894,249.177 54.238,242.437 54.898,235.789z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M235.789,0L235.789,54.898C242.437,54.238 249.178,53.894 256,53.894 262.822,53.894 269.563,54.238 276.211,54.898L276.211,0 235.789,0z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M89.271,60.69L60.69,89.271 99.517,128.098C108.07,117.648,117.647,108.069,128.099,99.516L89.271,60.69z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M422.729,60.69L383.902,99.517C394.354,108.07,403.931,117.649,412.484,128.099L451.311,89.272 422.729,60.69z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M412.483,383.902C403.93,394.352,394.353,403.931,383.901,412.484L422.728,451.311 451.31,422.729 412.483,383.902z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M457.102,235.789C457.762,242.437 458.106,249.178 458.106,256 458.106,262.822 457.762,269.563 457.102,276.211L512,276.211 512,235.79 457.102,235.79z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M99.517,383.902L60.69,422.729 89.272,451.311 128.099,412.484C117.647,403.93,108.07,394.352,99.517,383.902z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Warning}" Geometry="F1 M512,512z M0,0z M256,458.105C249.178,458.105,242.437,457.761,235.789,457.101L235.789,512 276.21,512 276.21,457.102C269.563,457.762,262.822,458.105,256,458.105z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FuelScoop.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 V512 H512 V0 H0 Z">
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M256,94.316C166.705,94.316 94.316,166.705 94.316,256 94.316,345.295 166.705,417.684 256,417.684 345.295,417.684 417.684,345.295 417.684,256 417.684,166.705 345.295,94.316 256,94.316z M256,323.368L256,276.21 202.105,276.21 256,188.632 256,235.79 309.895,235.79 256,323.368z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M54.898,235.789L0,235.789 0,276.21 54.898,276.21C54.238,269.562 53.894,262.821 53.894,255.999 53.894,249.177 54.238,242.437 54.898,235.789z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M235.789,0L235.789,54.898C242.437,54.238 249.178,53.894 256,53.894 262.822,53.894 269.563,54.238 276.211,54.898L276.211,0 235.789,0z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M89.271,60.69L60.69,89.271 99.517,128.098C108.07,117.648,117.647,108.069,128.099,99.516L89.271,60.69z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M422.729,60.69L383.902,99.517C394.354,108.07,403.931,117.649,412.484,128.099L451.311,89.272 422.729,60.69z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M412.483,383.902C403.93,394.352,394.353,403.931,383.901,412.484L422.728,451.311 451.31,422.729 412.483,383.902z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M457.102,235.789C457.762,242.437 458.106,249.178 458.106,256 458.106,262.822 457.762,269.563 457.102,276.211L512,276.211 512,235.79 457.102,235.79z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M99.517,383.902L60.69,422.729 89.272,451.311 128.099,412.484C117.647,403.93,108.07,394.352,99.517,383.902z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+                <DrawingGroup Opacity="1">
+                    <DrawingGroup Opacity="1">
+                        <GeometryDrawing Brush="{StaticResource Styles.Elite.Inactive}" Geometry="F1 M512,512z M0,0z M256,458.105C249.178,458.105,242.437,457.761,235.789,457.101L235.789,512 276.21,512 276.21,457.102C269.563,457.762,262.822,458.105,256,458.105z" />
+                    </DrawingGroup>
+                </DrawingGroup>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--FlightAssist-->
+    <DrawingImage x:Key="Ship.System.FlightAssist.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Good}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Good}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FA</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FlightAssist.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Warning}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Warning}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FA</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--Gear-->
+    <DrawingImage x:Key="Ship.System.Gear.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Good}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Good}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">GD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.Gear.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Inactive}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Inactive}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">GU</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--CargoScoop-->
+    <DrawingImage x:Key="Ship.System.CargoScoop.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Warning}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Warning}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">C</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.CargoScoop.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Inactive}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Inactive}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">C</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--SilentMode-->
+    <DrawingImage x:Key="Ship.System.SilentMode.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Warning}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Warning}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">SM</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.SilentMode.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Inactive}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Inactive}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">SM</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <!--FSD-->
+    <DrawingImage x:Key="Ship.System.FSD.On.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Good}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="8" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Good}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FSD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FSD.Charging.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Secondary}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="10" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Secondary}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FSD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FSD.Cooldown.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Warning}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="10" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Warning}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FSD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FSD.MassLocked.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Attention}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="10" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Attention}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FSD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Ship.System.FSD.Off.DrawingImage">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry Rect="0,0,10,10"></RectangleGeometry>
+                </GeometryDrawing.Geometry>
+                <GeometryDrawing.Brush>
+                    <VisualBrush>
+                        <VisualBrush.Visual>
+                            <Border BorderBrush="{StaticResource Styles.Elite.Inactive}" BorderThickness="1" CornerRadius="3">
+                                <TextBlock FontSize="10" FontWeight="Bold" Foreground="{StaticResource Styles.Elite.Inactive}" Margin="2,0,2,0" VerticalAlignment="Center" HorizontalAlignment="Center">FSD</TextBlock>
+                            </Border>
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </GeometryDrawing.Brush>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+</ResourceDictionary>

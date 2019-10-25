@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <AssemblyTitle>Elite:Dangerous Monitor</AssemblyTitle>
+    <Description>Elite:Dangerous Monitor</Description>
+    <Authors>Denis Ibragimov</Authors>
+    <Copyright>Copyright © 2019-2020 NewSoftWorld</Copyright>
+    <AssemblyName>EliteMon</AssemblyName>
+    <RootNamespace>NSW.EliteDangerous.Monitor</RootNamespace>
+    <LangVersion>8</LangVersion>
+    <ApplicationIcon>Resources\Images\app-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="3.0.0-ci699" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0" />
+    <PackageReference Include="NSW.EliteDangerous.API" Version="1.26.5" />
+    <PackageReference Include="NSW.Logging.Files" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\app-icon.ico" />
+    <Resource Include="Resources\Images\app-icon.png" />
+    <Resource Include="Resources\Images\Factions\alliance.png" />
+    <Resource Include="Resources\Images\Factions\alliance_navy.png" />
+    <Resource Include="Resources\Images\Factions\empire.png" />
+    <Resource Include="Resources\Images\Factions\empire_navy.png" />
+    <Resource Include="Resources\Images\Factions\federation.png" />
+    <Resource Include="Resources\Images\Factions\federation_navy.png" />
+    <Resource Include="Resources\Images\Factions\independent.png" />
+    <Resource Include="Resources\Images\Factions\independent_navy.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="EliteMon.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

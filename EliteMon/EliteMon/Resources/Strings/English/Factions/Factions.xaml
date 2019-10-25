@@ -1,0 +1,54 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xml:lang="en-AU">
+    <!--Federation-->
+    <sys:String x:Key="Faction.Federation.Text">Federation</sys:String>
+    <sys:String x:Key="Faction.Federation.Navy.Text">Federal Navy</sys:String>
+    <sys:String x:Key="Faction.Federation.0.Text">None</sys:String>
+    <sys:String x:Key="Faction.Federation.1.Text">Recruit</sys:String>
+    <sys:String x:Key="Faction.Federation.2.Text">Cadet</sys:String>
+    <sys:String x:Key="Faction.Federation.3.Text">Midshipman</sys:String>
+    <sys:String x:Key="Faction.Federation.4.Text">Petty Officer</sys:String>
+    <sys:String x:Key="Faction.Federation.5.Text">Chief Petty Officer</sys:String>
+    <sys:String x:Key="Faction.Federation.6.Text">Warrant Officer</sys:String>
+    <sys:String x:Key="Faction.Federation.7.Text">Ensign</sys:String>
+    <sys:String x:Key="Faction.Federation.8.Text">Lieutenant</sys:String>
+    <sys:String x:Key="Faction.Federation.9.Text">Lt. Commander</sys:String>
+    <sys:String x:Key="Faction.Federation.10.Text">Post Commander</sys:String>
+    <sys:String x:Key="Faction.Federation.11.Text">Post Captain</sys:String>
+    <sys:String x:Key="Faction.Federation.12.Text">Rear Admiral</sys:String>
+    <sys:String x:Key="Faction.Federation.13.Text">Vice Admiral</sys:String>
+    <sys:String x:Key="Faction.Federation.14.Text">Admiral</sys:String>
+    <!--Empire-->
+    <sys:String x:Key="Faction.Empire.Text">Empire</sys:String>
+    <sys:String x:Key="Faction.Empire.Navy.Text">Imperial Navy</sys:String>
+    <sys:String x:Key="Faction.Empire.0.Text">None</sys:String>
+    <sys:String x:Key="Faction.Empire.1.Text">Outsider</sys:String>
+    <sys:String x:Key="Faction.Empire.2.Text">Serf</sys:String>
+    <sys:String x:Key="Faction.Empire.3.Text">Master</sys:String>
+    <sys:String x:Key="Faction.Empire.4.Text">Squire</sys:String>
+    <sys:String x:Key="Faction.Empire.5.Text">Knight</sys:String>
+    <sys:String x:Key="Faction.Empire.6.Text">Lord</sys:String>
+    <sys:String x:Key="Faction.Empire.7.Text">Baron</sys:String>
+    <sys:String x:Key="Faction.Empire.8.Text">Viscount</sys:String>
+    <sys:String x:Key="Faction.Empire.9.Text">Count</sys:String>
+    <sys:String x:Key="Faction.Empire.10.Text">Earl</sys:String>
+    <sys:String x:Key="Faction.Empire.11.Text">Marquis</sys:String>
+    <sys:String x:Key="Faction.Empire.12.Text">Duke</sys:String>
+    <sys:String x:Key="Faction.Empire.13.Text">Prince</sys:String>
+    <sys:String x:Key="Faction.Empire.14.Text">King</sys:String>
+    <!--Alliance-->
+    <sys:String x:Key="Faction.Alliance.Text">Alliance</sys:String>
+    <sys:String x:Key="Faction.Alliance.Navy.Text">Alliance Navy</sys:String>
+    <!--Independent-->
+    <sys:String x:Key="Faction.Independent.Text">Independent</sys:String>
+    <sys:String x:Key="Faction.Independent.Navy.Text">Independent fleet</sys:String>
+    <!--Reputation-->
+    <sys:String x:Key="Faction.Reputation.0.Text">Hostile</sys:String>
+    <sys:String x:Key="Faction.Reputation.1.Text">Unfriendly</sys:String>
+    <sys:String x:Key="Faction.Reputation.2.Text">Neutral</sys:String>
+    <sys:String x:Key="Faction.Reputation.3.Text">Cordial</sys:String>
+    <sys:String x:Key="Faction.Reputation.4.Text">Friendly</sys:String>
+    <sys:String x:Key="Faction.Reputation.5.Text">Allied</sys:String>
+</ResourceDictionary>

@@ -1,0 +1,45 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xml:lang="en-AU">
+    <!--Combat-->
+    <sys:String x:Key="Rank.Combat.0.Text">Harmless</sys:String>
+    <sys:String x:Key="Rank.Combat.1.Text">Mostly Harmless</sys:String>
+    <sys:String x:Key="Rank.Combat.2.Text">Novice</sys:String>
+    <sys:String x:Key="Rank.Combat.3.Text">Competent</sys:String>
+    <sys:String x:Key="Rank.Combat.4.Text">Expert</sys:String>
+    <sys:String x:Key="Rank.Combat.5.Text">Master</sys:String>
+    <sys:String x:Key="Rank.Combat.6.Text">Dangerous</sys:String>
+    <sys:String x:Key="Rank.Combat.7.Text">Deadly</sys:String>
+    <sys:String x:Key="Rank.Combat.8.Text">ELITE</sys:String>
+    <!--Exploration-->
+    <sys:String x:Key="Rank.Exploration.0.Text">Aimless</sys:String>
+    <sys:String x:Key="Rank.Exploration.1.Text">Mostly Aimless</sys:String>
+    <sys:String x:Key="Rank.Exploration.2.Text">Scout</sys:String>
+    <sys:String x:Key="Rank.Exploration.3.Text">Surveyor</sys:String>
+    <sys:String x:Key="Rank.Exploration.4.Text">Explorer</sys:String>
+    <sys:String x:Key="Rank.Exploration.5.Text">Pathfinder</sys:String>
+    <sys:String x:Key="Rank.Exploration.6.Text">Ranger</sys:String>
+    <sys:String x:Key="Rank.Exploration.7.Text">Pioneer</sys:String>
+    <sys:String x:Key="Rank.Exploration.8.Text">ELITE</sys:String>
+    <!--Trade-->
+    <sys:String x:Key="Rank.Trade.0.Text">Penniless</sys:String>
+    <sys:String x:Key="Rank.Trade.1.Text">Mostly Penniless</sys:String>
+    <sys:String x:Key="Rank.Trade.2.Text">Peddler</sys:String>
+    <sys:String x:Key="Rank.Trade.3.Text">Dealer</sys:String>
+    <sys:String x:Key="Rank.Trade.4.Text">Merchant</sys:String>
+    <sys:String x:Key="Rank.Trade.5.Text">Broker</sys:String>
+    <sys:String x:Key="Rank.Trade.6.Text">Entrepreneur</sys:String>
+    <sys:String x:Key="Rank.Trade.7.Text">Tycoon</sys:String>
+    <sys:String x:Key="Rank.Trade.8.Text">ELITE</sys:String>
+    <!--Cqc-->
+    <sys:String x:Key="Rank.Cqc.0.Text">Helpless</sys:String>
+    <sys:String x:Key="Rank.Cqc.1.Text">Mostly Helpless</sys:String>
+    <sys:String x:Key="Rank.Cqc.2.Text">Amateur</sys:String>
+    <sys:String x:Key="Rank.Cqc.3.Text">Semi Professional</sys:String>
+    <sys:String x:Key="Rank.Cqc.4.Text">Professional</sys:String>
+    <sys:String x:Key="Rank.Cqc.5.Text">Champion</sys:String>
+    <sys:String x:Key="Rank.Cqc.6.Text">Hero</sys:String>
+    <sys:String x:Key="Rank.Cqc.7.Text">Legend</sys:String>
+    <sys:String x:Key="Rank.Cqc.8.Text">ELITE</sys:String>
+</ResourceDictionary>

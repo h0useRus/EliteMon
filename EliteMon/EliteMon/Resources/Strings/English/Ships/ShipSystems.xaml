@@ -1,0 +1,42 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xml:lang="en-AU">
+    <!--NightVision-->
+    <sys:String x:Key="Ship.System.NightVision.On.Text">Night Vision On</sys:String>
+    <sys:String x:Key="Ship.System.NightVision.Off.Text">Night Vision Off</sys:String>
+    <!--Headlamp-->
+    <sys:String x:Key="Ship.System.Headlamp.On.Text">Headlamps On</sys:String>
+    <sys:String x:Key="Ship.System.Headlamp.Off.Text">Headlamps Off</sys:String>
+    <!--AnalysisMode-->
+    <sys:String x:Key="Ship.System.AnalysisMode.On.Text">Analysis Mode Active</sys:String>
+    <sys:String x:Key="Ship.System.AnalysisMode.Off.Text">Analysis Mode Inactive</sys:String>
+    <!--Hardpoints-->
+    <sys:String x:Key="Ship.System.Hardpoints.On.Text">Hardpoints Deployed</sys:String>
+    <sys:String x:Key="Ship.System.Hardpoints.Off.Text">Hardpoints Scooped</sys:String>
+    <!--Shields-->
+    <sys:String x:Key="Ship.System.Shields.On.Text">Shields Up</sys:String>
+    <sys:String x:Key="Ship.System.Shields.Off.Text">Shields Down</sys:String>
+    <!--FuelScoop-->
+    <sys:String x:Key="Ship.System.FuelScoop.On.Text">Fuel Scoop Open</sys:String>
+    <sys:String x:Key="Ship.System.FuelScoop.Off.Text">Fuel Scoop Closed</sys:String>
+    <!--FlightAssist-->
+    <sys:String x:Key="Ship.System.FlightAssist.On.Text">Flight Assist On</sys:String>
+    <sys:String x:Key="Ship.System.FlightAssist.Off.Text">Flight Assist On</sys:String>
+    <!--Gear-->
+    <sys:String x:Key="Ship.System.Gear.On.Text">Gear Down</sys:String>
+    <sys:String x:Key="Ship.System.Gear.Off.Text">Gear Up</sys:String>
+    <!--CargoScoop-->
+    <sys:String x:Key="Ship.System.CargoScoop.On.Text">Cargo Scoop Open</sys:String>
+    <sys:String x:Key="Ship.System.CargoScoop.Off.Text">Cargo Scoop Closed</sys:String>
+    <!--SilentMode-->
+    <sys:String x:Key="Ship.System.SilentMode.On.Text">Silent Mode</sys:String>
+    <sys:String x:Key="Ship.System.SilentMode.Off.Text">Normal Mode</sys:String>
+    <!--FSD-->
+    <sys:String x:Key="Ship.System.FSD.On.Text">Frame Shift Drive On</sys:String>
+    <sys:String x:Key="Ship.System.FSD.Off.Text">Frame Shift Drive Off</sys:String>
+    <sys:String x:Key="Ship.System.FSD.Charging.Text">Frame Shift Drive Off</sys:String>
+    <sys:String x:Key="Ship.System.FSD.Cooldown.Text">Frame Shift Drive Off</sys:String>
+    <sys:String x:Key="Ship.System.FSD.MassLocked.Text">Frame Shift Drive Off</sys:String>
+
+</ResourceDictionary>

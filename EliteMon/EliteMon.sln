@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F96B3533-C9F2-4EA9-8072-72E0264206CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteMon", "EliteMon\EliteMon.csproj", "{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56A82E0F-E5DB-4C85-910F-7D6FDB25AB9B} = {F96B3533-C9F2-4EA9-8072-72E0264206CF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4AFD29-EACE-46FE-A796-804CC3A5CDFC}
+	EndGlobalSection
+EndGlobal
